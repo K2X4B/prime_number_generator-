@@ -1,5 +1,5 @@
 import re
-
+#Asks the user for a number then tells the user if it is a Prime number or not
 def Main():
     while True:
         print("--------------------")
